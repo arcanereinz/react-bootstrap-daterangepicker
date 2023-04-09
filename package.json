@@ -37,7 +37,6 @@
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "bootstrap-daterangepicker": "*",
     "jquery": "*",
     "react": "*"
   },
@@ -64,7 +63,6 @@
     "babel-jest": "^27.0.6",
     "babel-loader": "^8.2.2",
     "bootstrap": "^4.5.0",
-    "bootstrap-daterangepicker": "^3.1.0",
     "cheerio": "^0.22.0",
     "coveralls": "^3.1.1",
     "enzyme": "^3.11.0",
@@ -101,5 +99,8 @@
     "selector",
     "datetime",
     "ui"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap-daterangepicker": "github:arcanereinz/bootstrap-daterangepicker"
+  }
 }
