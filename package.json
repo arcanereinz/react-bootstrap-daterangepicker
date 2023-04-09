@@ -39,7 +39,6 @@
   "peerDependencies": {
     "bootstrap-daterangepicker": "*",
     "jquery": "*",
-    "moment": "*",
     "react": "*"
   },
   "devDependencies": {
